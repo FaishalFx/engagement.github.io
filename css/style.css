@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .fh5co-heading span,
 #fh5co-event .fh5co-heading span {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(245, 245, 245, 0.5);
   text-transform: uppercase;
   font-size: 13px;
   letter-spacing: 2px;
@@ -458,9 +458,9 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-header {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("../images/background/repeat-background/nice_snow.png");
-  background-repeat: repeat;
-  /*background-size: cover;*/
+  background-image: url("../images/background/IMG_20220522_120954_00000.png");
+  background-repeat: auto;
+  background-size: cover;
 }
 #fh5co-header .fh5co-heading {
   margin-bottom: 10px;
@@ -493,7 +493,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #overlay {
   background: #ffffff;
-  background-image: url("/images/cover.png");
+  background-image: url("../images/background/IMG_20220522_120954.jpg");
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -1134,7 +1134,7 @@ form label {
 }
 
 #fh5co-couple{
-  /*background-image: url("../images/background/repeat-background/concrete-texture.png");*/
+  background-image: url("../images/background/repeat-background/concrete-texture.png");*/
   background-repeat : repeat;
   position: relative;
 }
